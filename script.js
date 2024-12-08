@@ -68,4 +68,3 @@ createGrid();
 document.body.appendChild(container);
 document.body.appendChild(btn);
 
-console.log(divs);  // for debugging
